@@ -24,7 +24,7 @@ DisableProgramGroupPage=yes
 ; Remove the following line to run in administrative install mode (install for all users.)
 PrivilegesRequired=lowest
 OutputDir=C:\Users\pikac\Documents\inno output
-OutputBaseFilename=For-Zip_Sups_Afk_Runner_1.0.0
+OutputBaseFilename=Sups_Afk_Runner_1.0.0
 SetupIconFile=C:\Users\pikac\Downloads\66909997.ico
 Compression=lzma
 SolidCompression=yes
