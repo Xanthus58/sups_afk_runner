@@ -4,10 +4,14 @@ fn main() {
     print!("{esc}c", esc = 27 as char);
 
     let website = "https://xanthus58.github.io/Xanthus58/";
-    let log_location = "'C:/Program Files (x86)/Steam/steamapps/common/GarrysMod/garrysmod/console.log'";
+    let log_location =
+        "'C:/Program Files (x86)/Steam/steamapps/common/GarrysMod/garrysmod/console.log'";
 
     println!("-Credits-");
-    println!("Made by Xanthus58 you can check out my other works at {}", website);
+    println!(
+        "Made by Xanthus58 you can check out my other works at {}",
+        website
+    );
     println!("If you have any issue let me know.");
     println!("--------");
     println!("logs can be found in {}", log_location);
