@@ -1,0 +1,8 @@
+[package]
+name = "sups_afk"
+version = "1.0.0"
+edition = "2021"
+authors = ["Xanthus58 <https://xanthus58.github.io/Xanthus58/>"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
