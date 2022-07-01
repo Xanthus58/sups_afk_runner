@@ -1,1 +1,1 @@
-.\hl2.exe -textmode +connect RP.SuperiorServers.co:27015 -nosound -low -sw -x 0 -y 0 -condebug -conclearlog
+.\hl2.exe -textmode -64bit -textmode -single_core -nojoy -low -nosound -sw -noshader -nopix -novid -nopreload -nopreloadmodels -multirun  +connect RP.SuperiorServers.co:27015
