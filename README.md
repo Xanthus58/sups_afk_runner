@@ -1,6 +1,6 @@
 # sups_afk_runner
 A small afk runnner application for RP.SuperiorServers.co
 
-[Demo video here](https://www.youtube.com/watch?v=XSZ7PyDh7-c)
+It allows a user to grind karma in sup with little overhead; the game runs in CLI form with no sound; shaders; or graphics of any kind. Allowing your computer to be freed up for other tasks
 
-[Sups fourms](https://forum.superiorservers.co/topic/70063-i-made-a-small-afk-program-for-sups/#comment-956154)
+[Demo video here](https://www.youtube.com/watch?v=XSZ7PyDh7-c)
